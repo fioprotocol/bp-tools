@@ -1,5 +1,9 @@
 # bp-tools
 
+## Current Features
+
+#### Block Producer Pricing Tool
+
 ## Project setup
 ```
 npm install
